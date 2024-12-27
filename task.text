@@ -1,0 +1,42 @@
+Project Description:
+You will create a simple Flask application with the following features:
+
+Homepage: A welcome page with a heading, a brief description of the project, and navigation links.
+About Page: A page describing the developer (you).
+Dynamic Feature: Create a route (/current-time) that uses Python scripting to display the current date and time dynamically on the webpage.
+Project Requirements:
+Use Python for scripting and create the app structure.
+Use Flask to handle routing.
+Build three HTML pages:
+Homepage (/)
+About Page (/about)
+Current Time Page (/current-time)
+Keep the HTML pages minimal (no CSS or JavaScript).
+Ensure proper comments in your Python and HTML code.
+Deliverables:
+A functional Flask application.
+HTML pages with the specified routes.
+Estimated Time to Complete:
+2–3 hours, depending on your familiarity with Flask and Python basics.
+
+Evaluation Criteria (100 Points):
+Functionality (40 Points):
+
+Routes work as expected.
+Current time is displayed dynamically.
+Code Quality (30 Points):
+
+Proper use of Python and Flask conventions.
+Clear, concise, and commented code.
+HTML Structure (20 Points):
+
+Correct use of HTML tags.
+Logical structure and navigation.
+Presentation (10 Points):
+
+Readability of content and ease of navigation.
+Steps to Start:
+Create a new folder for the project in Visual Studio Code.
+Set up a virtual environment and install Flask.
+Start coding your Flask application and HTML pages.
+Test the application using flask run to ensure everything works.
